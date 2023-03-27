@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discos>
+    <grupo>
+        <nombre>MUSE</nombre>
+        <miembro>Matthew Bellamy</miembro>
+        <miembro>Dominic Howard</miembro>
+        <miembro>Chris Wolstenholme</miembro>
+        <disco>
+            <titulo>Showbiz</titulo>
+            <anio>2000</anio>
+        </disco>
+        <disco>
+            <titulo>Origin of symmetry</titulo>
+            <anio>2007</anio>
+        </disco>
+    </grupo>
+    <grupo>
+        <nombre>FEEDER</nombre>
+        <miembro>Grant Nicholas</miembro>
+        <miembro>Taka Hirose</miembro>
+        <miembro>Jon Henry Lee</miembro>
+        <disco>
+            <titulo>Echo Park</titulo>
+            <anio>1980</anio>
+        </disco>
+        <disco>
+            <titulo>Comfort In Sound</titulo>
+            <anio>2010</anio>
+        </disco>
+    </grupo>
+    <grupo>
+        <nombre>No vendo ni un disco</nombre>
+        <miembro>Marta</miembro>
+        <miembro>Ramon</miembro>
+        <miembro>Pedro</miembro>
+        <disco>
+            <titulo>Esto suena realmente mal</titulo>
+            <anio>2011</anio>
+        </disco>
+    </grupo>
+</discos>
